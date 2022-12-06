@@ -25,3 +25,11 @@ This is the second DSPS student competition on the application of AI for pavemen
 * February 28th, 2023: Competition ends! Deadline for submitting the source code & the solutions. 
 * March 1st, 2023: 10 teams have been shortlisted for paper submission!
 * March 22nd, 2023: Symposium begins! 
+
+## <summary> RULES </summary>
+We expect you to respect the spirit of the competition and do not cheat.
+* There is no restriction on the size of the team.
+* The use of external data is forbidden
+* Pre-trained models other than the ones provided are not allowed in the competition
+* Teams must only use the algorithm/model selected by the organizers. 
+* Please submit source code and trained model before the deadline. IPython Notebook is desirable for the source code submission. The organizers will verify the reproducibility of the algorithm before determining the final winner.
