@@ -6,7 +6,7 @@ This is the second DSPS student competition on the application of AI for pavemen
 
  <div align="center">
     <a>
-        <img src="https://github.com/UM-Titan/DSPS/blob/dev/gif2.gif" width="45%"/>
+        <img src="https://github.com/UM-Titan/DSPS/blob/main_dev/gif2.gif" width="45%"/>
     </a>
 <!--     <a>
         <img src="https://github.com/UM-Titan/DSPS/blob/main/dsps.gif" width="45%"/>
