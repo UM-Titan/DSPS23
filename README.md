@@ -37,7 +37,7 @@ We expect you to respect the spirit of the competition and do not cheat.
 ## <summary> HOW TO RUN </summary>
 
 ```bash
-$ git clone https://github.com/UM-Titan/DSPS23.git
-$ cd DSPS23
+$ !git clone https://github.com/UM-Titan/DSPS23.git
+$ %cd DSPS23
 $ open and run tutorial_DSPS.ipnyb # google collaboratory is preffered
 ```
