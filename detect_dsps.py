@@ -200,6 +200,7 @@ def run(
                     vid_writer[i].write(im0)
         
         ## save to submission
+        df['cls'] = df['cls'].astype(int) + 1
         gen_submit(df)
         # Print time (inference-only)
         LOGGER.info(f"{s}{'' if len(det) else '(no detections), '}{dt[1].dt * 1E3:.1f}ms")
