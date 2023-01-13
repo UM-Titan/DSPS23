@@ -15,15 +15,15 @@ This is the second DSPS student competition on the application of AI for pavemen
 </div> 
 
 ## <summary>TIMELINE </summary>
-* December 12th, 2022: Team registration begins! Challenge GitHub page and Website opens. 
-* December 26th, 2022: First batch of training Data is released. Use notebook to download data. 
-* January 6th, 2023: Second batch of training Data is released.
-* January 20th, 2023: Test Data is released.
+* December 20th, 2022: Team registration begins! Challenge GitHub page and Website opens. 
+* December 28th, 2022: Training data for TRACK 1 is released. Download data from GitHub page.
+* January 6th, 2023: Training data for TRACK 2 is released.
+* January 20th, 2023: Test Data for TRACK 1 & 2 is released.
 * January 23rd, 2023: [Leaderboard](https://dsps-1e998.web.app/) website is open for results submission.
 * January 27th, 2023: Tutorial on how to use benchmark model. 
 * February 23rd, 2023: The link for submitting the source code enabled.
 * February 28th, 2023: Competition ends! Deadline for submitting the source code & the solutions. 
-* March 1st, 2023: 10 teams have been shortlisted for paper submission!
+* March 1st, 2023: 3 teams have been shortlisted for paper submission!
 * March 22nd, 2023: Symposium begins! 
 
 ## <summary> RULES </summary>
